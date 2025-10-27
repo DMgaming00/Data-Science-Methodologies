@@ -11,11 +11,11 @@ Each project is stored in its own subdirectory with code, reports, datasets, and
 
 ## 🧭 Project Structure
 
-| Methodology | Project | Description | Link |
-|--------------|----------|--------------|------|
-| CRISP-DM | Titanic Survival Prediction | Classification task predicting passenger survival | [CRISP-DM_Titanic](./CRISP-DM_Titanic) |
-| SEMMA | House Price Prediction | Regression task predicting property sale prices | [SEMMA_HousePrices](./SEMMA_HousePrices) |
-| KDD | SMS Spam Detection | NLP task detecting spam vs. ham messages | [KDD_SpamDetection](./KDD_SpamDetection) |
+| Methodology | Project | Description |
+|--------------|----------|--------------|
+| CRISP-DM | Titanic Survival Prediction | Classification task predicting passenger survival |
+| SEMMA | House Price Prediction | Regression task predicting property sale prices |
+| KDD | SMS Spam Detection | NLP task detecting spam vs. ham messages |
 
 ---
 
