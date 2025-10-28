@@ -72,4 +72,4 @@ And in this case, it helped uncover how data can reflect society — even in tra
 ---
 
 ### 🧭 Explore the Full Project  
-🔗 **GitHub Repository:** [data-science-methodologies (CRISP-DM Project)](YOUR_GITHUB_REPO_LINK_HERE)
+🔗 **GitHub Repository:** [data-science-methodologies (CRISP-DM Project)](https://github.com/DMgaming00/Data-Science-Methodologies)
