@@ -33,5 +33,10 @@ Each subdirectory contains a detailed PDF report explaining the methodology phas
 
 ---
 
+## 📄 YT Channel
+You can watch all the Walkthrough videos on my YT Channel [https://www.youtube.com/@DMcodes_0]
+
+---
+
 ## 📄 License
 This repository is distributed under the MIT License — feel free to reuse and adapt.
