@@ -33,7 +33,7 @@ Each subdirectory contains a detailed PDF report explaining the methodology phas
 
 ---
 
-## 📄 YT Channel
+## 🎬 ▶ YT Channel
 You can watch all the Walkthrough videos on my YT Channel [https://www.youtube.com/@DMcodes_0]
 
 ---
