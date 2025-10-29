@@ -23,4 +23,4 @@ This project applies the **KDD (Knowledge Discovery in Databases)** methodology 
 
 ---
 
-**Medium Article:** [Insert your Medium article link here]
+**Medium Article:** [https://medium.com/@devchandralal.mulchandani/i-built-a-spam-detection-model-that-reads-texts-better-than-you-using-kdd-methodology-d6f821325908]
