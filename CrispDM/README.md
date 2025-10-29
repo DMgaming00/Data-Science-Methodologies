@@ -22,4 +22,4 @@ This project follows the **CRISP-DM (Cross Industry Standard Process for Data Mi
 
 ---
 
-**Medium Article:** [Insert your Medium article link here]
+**Medium Article:** [https://medium.com/@devchandralal.mulchandani/how-i-used-the-crisp-dm-framework-to-predict-titanic-survivors-and-what-it-taught-me-about-eb5939faf6c0]
