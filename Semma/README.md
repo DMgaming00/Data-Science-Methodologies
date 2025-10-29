@@ -22,4 +22,4 @@ This project implements the **SEMMa (Sample, Explore, Modify, Model, Assess)** m
 
 ---
 
-**Medium Article:** [Insert your Medium article link here]
+**Medium Article:** [https://medium.com/@devchandralal.mulchandani/from-kaggle-to-clarity-how-i-predicted-house-prices-with-semma-86c13c660054]
